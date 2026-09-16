@@ -34,13 +34,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'imgfave.com (former image-discovery/bookmarking service) 301-redirects
-  to threadz.com, an unrelated Shopify store. No live imgfave developer portal, API,
-  documentation, or spec surface exists to enrich. Verified 2026-07-20 via curl probe.'
+x-status-note: imgfave.com (former image-discovery/bookmarking service) 301-redirects to threadz.com,
+  an unrelated Shopify store. No live imgfave developer portal, API, documentation, or spec surface exists
+  to enrich. Verified 2026-07-20 via curl probe.
 tags:
 - Company
+- Defunct
 apis: []
 x-enrichment:
   date: '2026-07-20'
